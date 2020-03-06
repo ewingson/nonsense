@@ -20,3 +20,5 @@ const nonsense = require("@ewingson/nonsense");
 nonsense("012345");
 //=> "check /var/log"
 //=> "test:012345"
+//=> false
+```
