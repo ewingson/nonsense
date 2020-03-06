@@ -29,7 +29,8 @@
   "private": false,
   "config": {
   "directory": "/var/log",
-  "short": "nss"
+  "ontology": "./tests/ontology",
+  "short": "nss",
   "mode": [
     "debug",
     "silent",
@@ -43,6 +44,8 @@
     "second comment line",
     "3",
     "vasamm",
-    "42"
+    "42",
+    "ontology",
+    "./tests/ontology"
   ]
 }
