@@ -26,7 +26,7 @@
   "@ewingson/example": "^1.0.1",
   "@solid": "^5.0.0"
 },
-  "private": true,
+  "private": false,
 "config": {
 "directory": "/var/log"
 },
