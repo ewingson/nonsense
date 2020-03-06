@@ -1,6 +1,6 @@
 {
   "name": "@ewingson/nonsense",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "instructions to admin a server via check log directory goes to the console",
   "license": "MIT",
   "repository": "ewingson/nonsense",
@@ -30,11 +30,19 @@
   "config": {
   "directory": "/var/log",
   "short": "nss"
+  "mode": [
+    "debug",
+    "silent",
+    "sum",
+    "total",
+    "everything"
+    ]
   },
   "//": [ 
     "its a test",
     "second comment line",
-    "3"
+    "3",
+    "vasamm",
+    "42"
   ]
 }
-
