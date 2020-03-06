@@ -1,7 +1,7 @@
 {
   "name": "@ewingson/nonsense",
-  "version": "0.0.1",
-  "description": "instructions to admin a server via check log directory goes to the console)",
+  "version": "0.0.2",
+  "description": "instructions to admin a server via check log directory goes to the console",
   "license": "MIT",
   "repository": "ewingson/nonsense",
   "main": "index.js",
@@ -12,26 +12,29 @@
     "package",
     "log"
   ],
-"homepage": "https://github.com/ewingson/nonsense",
-"bugs": {
+  "homepage": "https://github.com/ewingson/nonsense",
+  "bugs": {
     "url": "https://github.com/ewingson/nonsense/issues",
     "email": "meisdata@gmail.com"
   },
-"scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-"author": "Matthias Evering <meisdata@gmail.com> (https://configedit.wordpress.com)",
+  "author": "Matthias Evering <meisdata@gmail.com> (https://configedit.wordpress.com)",
   "license": "MIT",
   "dependencies": {
-  "@ewingson/example": "^1.0.1",
-  "solid": "^5.0.0"
-},
+    "@ewingson/example": "^1.0.1",
+    "solid": "^5.2.3"
+  },
   "private": false,
-"config": {
-"directory": "/var/log"
-},
-"//": [ 
-"its a test",
-"second comment line"]
+  "config": {
+  "directory": "/var/log",
+  "short": "nss"
+  },
+  "//": [ 
+    "its a test",
+    "second comment line",
+    "3"
+  ]
 }
 
