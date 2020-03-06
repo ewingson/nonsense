@@ -9,3 +9,17 @@
 
 It's minimalistic, indeed.
 
+# Install
+
+```
+$ npm install @ewingson/nonsense
+```
+
+# Usage
+
+```
+const nonsense = require("@ewingson/nonsense");
+
+nonsense("012345");
+//=> "check /var/log"
+//=> "test:012345"
