@@ -21,7 +21,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matthias Evering <meisdata@gmail.com> (https://configedit.wordpress.com)",
-  "license": "MIT",
   "dependencies": {
     "@ewingson/example": "^1.0.1",
     "solid-server": "^5.2.3"
