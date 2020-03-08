@@ -1,265 +1,275 @@
-       Begriffssammlung {([keywords])}
-•{([Synonyme])}
-•{([Mnemonics])}
-•{([Der Akkumulator])}
-•{([bedingte Sprünge])}
-•{([Medikamente])}
-•{([Tiefenpsychologie])}
-•{([Alkohol und Drogen])}
-•{([Co-Abhängigkeit])}
-•{([Abstraktion])}
-•{([Techniken der Kontemplation])}
-•{([Graphische Darstellung])}
-•{([Sonderfälle])}
-•{([Die Kommandozeile])}
-•{([Virtuelle Techniken und Hypervisoren])}
-•{([Rechteverwaltung])}
-•{([Rekursionen])}
-•{([Netzanbindung])}
-•DMZ {([Demilitarisierte Zone])}
-•{([Akustik])}
-•{([Motivation])}
-•{([Stromversorgung])}
-•{([Alternative Techniken])}
-•{([Redundanz])}
-•{([Definitionen])}
-•{([Hirntod])}
-•{([Palliativmedizin])}
-•{([SI-Einheiten])}
-•{([Physik, Chemie und Biologie])} {([Physik])} {([Chemie])} {([Biologie])}
-•{([Neuronale Netze])}
-•{([Künstliche Intelligenz])}
-•{([Naturwissenschaftliche Grundlagen])}
-•{([Infinitesimalrechnung])}
-•{([Algorithmen und Datenstrukturen])} {([Algorithmen])} {([Datenstrukturen])}
-•{([Datensammlungen])}
-•{([Dateiverwaltung])}
-•{([Dateisicherung])}
-•{([Betriebssysteme])}
-•SQL-Dialekte {([Structured Query Language])}
-•{([Arbeitszeiten])}
-•{([Familie und systemische Therapie])}
-•NLP {([Neurolinguistische Programmierung])}
-•{([unixoide und linuxoide Systeme])}
-•{([Linguistik])}
-•{([Muttersprache])}
-•{([kulturelles Umfeld])}
-•{([soziokulturelle Widrigkeiten])}
-•{([Variablen und Konstanten])} {([Variablen])} {([Konstanten])}
-•Verteiltes Rechnen {([Grid-Computing])}
-•{([Daemons])}
-•{([cronjobs])}
-•{([anac(h)ronistic cron])} {([anacron])}
-•{([fork])}
-•{([exec])}
-•{([Datenverlust])}
-•{([Reproduktion aus dem Gedächtnis])}
-•{([Dedicated Denial of Service])}
-•{([growing biological services])}
-•{([grassroot movement])}
-•{([rainbow people])}
-•{([Diagramme])}
-•{([Copyright])}
-•{([Public Domain])}
-•{([Tabellen])}
-•{([open])}
-•{([read])}
-•{([speak])}
-•{([listen])}
-•{([store])}
-•{([connect])}
-•{([kill])}
-•{([turn])}
-•{([input])}
-•{([get])}
-•{([come])}
-•{([increase])}
-•{([decrease])}
-•{([cut])}
-•{([dedicate])}
-•{([grow])}
-•{([destroy])}
-•{([terminate])}
-•{([Triangulation])}
-•{([Lysergsäurediethylamid])}
-•{([Reptilien])}
-•{([Insekten])}
-•{([Menschenaffen])}
-•{([Knochen])}
-•{([Hund])}
-•{([Wolf])}
-•{([XML])}
-•{([Schmerzen])}
-•{([Kommilitone])}
-•{([Ausbildung])}
-•{([Altruismus])}
-•{([Knie])}
-•{([Soziopath])}
-•{([Rot-Grün-Schwäche])}
-•{([Polizei])}
-•{([Jesus])}
-•{([Fanatismus])}
-•{([Religion])}
-•{([Sucht])}
-•{([Tag])}
-•{([Wohlfühlen])}
-•{([Pudding])}
-•{([Nahrungsaufnahme])}
-•{([Militär])}
-•{([Zensur])}
-•{([Atmung])}
-•{([Luft])}
-•{([Fahndung])}
-•{([Gold])}
-•{([Bor])}
-•{([Friede])}
-•{([Nase])}
-•{([Wasser])}
-•{([Gesundheit])}
-•{([Physis])}
-•{([Psyche])}
-•{([Trinität])}
-•{([Enger])}
-•{([China])}
-•{([Pause])}
-•{([Ehrlichkeit])}
-•{([Verhalten])}
-•{([Charakter])}
-•{([Assoziation])}
-•{([Suche])}
-•{([Volltextsuche])}
-•{([Artikel])}
-•{([Sprache])}
-•{([Hilfe])}
-•{([Tabak])}
-•{([Cannabis])}
-•{([Route])}
-•{([Wasserstoff])}
-•{([Kohlehydrate])}
-•{([Gesicht])}
-•{([Diagnose])}
-•{([Kaffee])}
-•{([Staat])}
-•{([Kirche])}
-•{([Buddha])}
-•{([Judas Iskariot])}
-•{([Vernunft])}
-•{([XSLT])}
-•{([Nacht])}
-•{([Wolle])}
-•{([Nahrung])}
-•{([Hemmschwelle])}
-•{([Reflex])}
-•{([Sport])}
-•{([Ausdauer])}
-•{([Person])}
-•{([Mord])}
-•{([Rechtschreibung])}
-•{([Blei])}
-•{([Plutonium])}
-•{([Gewalt])}
-•{([language])}
-•{([schmutzig])}
-•{([integer])}
-•{([double])}
-•{([float])}
-•{([lang])}
-•{([klein])}
-•{([weiblich])}
-•{([Krieg])}
-•{([Unterdrückung])}
-•{([Selbstzweifel])}
-•{([Hoffnung])}
-•{([Bilanz])}
-•{([Motor])}
-•{([Sterlingmotor])}
-•{([Adjektiv])}
-•{([Weltschmerz])}
-•{([Eis])}
-•{([Prophylaxe])}
-•{([Sohn])}
-•{([Tochter])}
-•{([Liebe])}
-•{([Zweifel])}
-•{([Perfektion])}
-•{([Dialog])}
-•{([Monolog])}
-•{([Trialog])}
-•{([Hammer])}
-•{([Sammlung])}
-•{([Nordsee])}
-•{([Baltrum])}
-•{([Leben])}
-•{([richtig])}
-•{([Mutter])}
-•{([Vater])}
-•{([männlich])}
-•{([Mars])}
-•{([Venus])}
-•{([Saturn])}
-•{([Jupiter])}
-•{([Pluto])}
-•{([Merkur])}
-•{([Neptun])}
-•{([Uranus])}
-•{([Masturbation])}
-•{([Onanie])}
-•{([Regenbogen])}
-•{([Mensch])}
-•{([Meinung])}
-•{([Aschenbecher])}
-•{([Tisch])}
-•{([Farbe])}
-•{([Gebet])}
-•{([rot])}
-•{([grün])}
-•{([weiß])}
-•{([gelb])}
-•{([schwarz])}
-•{([Teufel])}
-•{([Satan])}
-•{([Diavolo])}
-•{([Diabolo])}
-•{([Legion])}
-•{([Asterix])}
-•{([Gut])}
-•{([Böse])}
-•{([Misstrauen])}
-•{([Dusche])}
-•{([Sex])}
-•{([blau])}
-•{([Selbstmord])}
-•{([Meer])}
-•{([Enkel])}
-•{([Ende])}
-•{([Planet])}
-•{([Erde])}
-•{([Sonne])}
-•{([Mond])}
-•{([Gicht])}
-•{([Gedicht])}
-•{([Sonnensystem])}
-•{([Milchstraße])}
-•{([Betrug])}
-•{([Zielfahndung])}
-•{([Geburtsdatum])}
-•{([Ozean])}
-•{([Waffe])}
-•{([Waffel])}
-•{([Tier])}
-•{([Pflanze])}
-•{([Klassifizierung])}
-•{([Rheuma])}
-•{([Arzt])}
-•{([Kugelschreiber])}
-•{([Filter])}
-•{([Netz])}
-•{([Vernetzung])}
-•{([Psychiatrie])}
-•{([Einsamkeit])}
-•{([Name])}
-•{([Ort])}
-•{([Langeweile])}
-•{([Alter])}
-•{([Intuition])}
-•{([Milch])}
+{
+{([keywords])},
+{([Synonyme])},
+{([Mnemonics])},
+{([Der Akkumulator])},
+{([bedingte Sprünge])},
+{([Medikamente])},
+{([Tiefenpsychologie])},
+{([Alkohol und Drogen])},
+{([Co-Abhängigkeit])},
+{([Abstraktion])},
+{([Techniken der Kontemplation])},
+{([Graphische Darstellung])},
+{([Sonderfälle])},
+{([Die Kommandozeile])},
+{([Virtuelle Techniken und Hypervisoren])},
+{([Rechteverwaltung])},
+{([Rekursionen])},
+{([Netzanbindung])},
+{([Demilitarisierte Zone])},
+{([Akustik])},
+{([Motivation])},
+{([Stromversorgung])},
+{([Alternative Techniken])},
+{([Redundanz])},
+{([Definitionen])},
+{([Hirntod])},
+{([Palliativmedizin])},
+{([SI-Einheiten])},
+{([Physik, Chemie und Biologie])},
+{([Physik])},
+{([Chemie])},
+{([Biologie])},
+{([Neuronale Netze])},
+{([Künstliche Intelligenz])},
+{([Naturwissenschaftliche Grundlagen])},
+{([Infinitesimalrechnung])},
+{([Algorithmen und Datenstrukturen])},
+{([Algorithmen])},
+{([Datenstrukturen])},
+{([Datensammlungen])},
+{([Dateiverwaltung])},
+{([Dateisicherung])},
+{([Betriebssysteme])},
+{([Structured Query Language])},
+{([Arbeitszeiten])},
+{([Familie und systemische Therapie])},
+{([Neurolinguistische Programmierung])},
+{([unixoide und linuxoide Systeme])},
+{([Linguistik])},
+{([Muttersprache])},
+{([kulturelles Umfeld])},
+{([soziokulturelle Widrigkeiten])},
+{([Variablen und Konstanten])},
+{([Variablen])},
+{([Konstanten])},
+{([Grid-Computing])},
+{([Daemons])},
+{([cronjobs])},
+{([anac(h)ronistic cron])},
+{([anacron])},
+{([fork])},
+{([exec])},
+{([Datenverlust])},
+{([Reproduktion aus dem Gedächtnis])},
+{([Dedicated Denial of Service])},
+{([growing biological services])},
+{([grassroot movement])},
+{([rainbow people])},
+{([Diagramme])},
+{([Copyright])},
+{([Public Domain])},
+{([Tabellen])},
+{([open])},
+{([read])},
+{([speak])},
+{([listen])},
+{([store])},
+{([connect])},
+{([kill])},
+{([turn])},
+{([input])},
+{([get])},
+{([come])},
+{([increase])},
+{([decrease])},
+{([cut])},
+{([dedicate])},
+{([grow])},
+{([destroy])},
+{([terminate])},
+{([Triangulation])},
+{([Lysergsäurediethylamid])},
+{([Reptilien])},
+{([Insekten])},
+{([Menschenaffen])},
+{([Knochen])},
+{([Hund])},
+{([Wolf])},
+{([XML])},
+{([Schmerzen])},
+{([Kommilitone])},
+{([Ausbildung])},
+{([Altruismus])},
+{([Knie])},
+{([Soziopath])},
+{([Rot-Grün-Schwäche])},
+{([Polizei])},
+{([Jesus])},
+{([Fanatismus])},
+{([Religion])},
+{([Sucht])},
+{([Tag])},
+{([Wohlfühlen])},
+{([Pudding])},
+{([Nahrungsaufnahme])},
+{([Militär])},
+{([Zensur])},
+{([Atmung])},
+{([Luft])},
+{([Fahndung])},
+{([Gold])},
+{([Bor])},
+{([Friede])},
+{([Nase])},
+{([Wasser])},
+{([Gesundheit])},
+{([Physis])},
+{([Psyche])},
+{([Trinität])},
+{([Enger])},
+{([China])},
+{([Pause])},
+{([Ehrlichkeit])},
+{([Verhalten])},
+{([Charakter])},
+{([Assoziation])},
+{([Suche])},
+{([Volltextsuche])},
+{([Artikel])},
+{([Sprache])},
+{([Hilfe])},
+{([Tabak])},
+{([Cannabis])},
+{([Route])},
+{([Wasserstoff])},
+{([Kohlehydrate])},
+{([Gesicht])},
+{([Diagnose])},
+{([Kaffee])},
+{([Staat])},
+{([Kirche])},
+{([Buddha])},
+{([Judas Iskariot])},
+{([Vernunft])},
+{([XSLT])},
+{([Nacht])},
+{([Wolle])},
+{([Nahrung])},
+{([Hemmschwelle])},
+{([Reflex])},
+{([Sport])},
+{([Ausdauer])},
+{([Person])},
+{([Mord])},
+{([Rechtschreibung])},
+{([Blei])},
+{([Plutonium])},
+{([Gewalt])},
+{([language])},
+{([schmutzig])},
+{([integer])},
+{([double])},
+{([float])},
+{([lang])},
+{([klein])},
+{([weiblich])},
+{([Krieg])},
+{([Unterdrückung])},
+{([Selbstzweifel])},
+{([Hoffnung])},
+{([Bilanz])},
+{([Motor])},
+{([Sterlingmotor])},
+{([Adjektiv])},
+{([Weltschmerz])},
+{([Eis])},
+{([Prophylaxe])},
+{([Sohn])},
+{([Tochter])},
+{([Liebe])},
+{([Zweifel])},
+{([Perfektion])},
+{([Dialog])},
+{([Monolog])},
+{([Trialog])},
+{([Hammer])},
+{([Sammlung])},
+{([Nordsee])},
+{([Baltrum])},
+{([Leben])},
+{([richtig])},
+{([Mutter])},
+{([Vater])},
+{([männlich])},
+{([Mars])},
+{([Venus])},
+{([Saturn])},
+{([Jupiter])},
+{([Pluto])},
+{([Merkur])},
+{([Neptun])},
+{([Uranus])},
+{([Masturbation])},
+{([Onanie])},
+{([Regenbogen])},
+{([Mensch])},
+{([Meinung])},
+{([Aschenbecher])},
+{([Tisch])},
+{([Farbe])},
+{([Gebet])},
+{([rot])},
+{([grün])},
+{([weiß])},
+{([gelb])},
+{([schwarz])},
+{([Teufel])},
+{([Satan])},
+{([Diavolo])},
+{([Diabolo])},
+{([Legion])},
+{([Asterix])},
+{([Gut])},
+{([Böse])},
+{([Misstrauen])},
+{([Dusche])},
+{([Sex])},
+{([blau])},
+{([Selbstmord])},
+{([Meer])},
+{([Enkel])},
+{([Ende])},
+{([Planet])},
+{([Erde])},
+{([Sonne])},
+{([Mond])},
+{([Gicht])},
+{([Gedicht])},
+{([Sonnensystem])},
+{([Milchstraße])},
+{([Betrug])},
+{([Zielfahndung])},
+{([Geburtsdatum])},
+{([Ozean])},
+{([Waffe])},
+{([Waffel])},
+{([Tier])},
+{([Pflanze])},
+{([Klassifizierung])},
+{([Rheuma])},
+{([Arzt])},
+{([Kugelschreiber])},
+{([Filter])},
+{([Netz])},
+{([Vernetzung])},
+{([Psychiatrie])},
+{([Einsamkeit])},
+{([Name])},
+{([Ort])},
+{([Langeweile])},
+{([Alter])},
+{([Intuition])},
+{([Milch])}
+}
